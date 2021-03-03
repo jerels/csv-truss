@@ -1,7 +1,7 @@
 This project uses node, along with the following libraries:
 
-Papa Parse
-Moment
+Papa Parse  
+Moment  
 Moment Timezone
 
 Before running be sure to npm install.
